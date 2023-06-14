@@ -1,5 +1,5 @@
 # womeninscience_
-## Женшины в науке
+## Женщины в науке
 Наш проект про Анализу Данных строится на датасете "Russia Real Estate 2021" с сайта kaggle: https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021
 
 __Задача, поставленная нами__ : проанализировать рынок недвижимости России за 2021 год. 
